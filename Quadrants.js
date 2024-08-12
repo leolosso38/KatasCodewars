@@ -8,3 +8,12 @@ function quadrant(x, y) {
   }else if (x > 0 && y < 0){
     return 4
   }
+   
+  console.log(quadrant (1,2))
+  console.log(quadrant (3,5))
+  console.log(quadrant (-10,100))
+  console.log(quadrant (-1,-9))
+  console.log(quadrant (19,-56))
+  
+  
+}
